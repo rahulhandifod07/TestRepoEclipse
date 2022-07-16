@@ -10,6 +10,7 @@ public class TEstEclipse {
 		int x=2;
 		System.out.println();
 		int b=2;
+		int c=3333;
 		
 
 	}
