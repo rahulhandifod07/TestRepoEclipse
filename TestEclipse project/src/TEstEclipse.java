@@ -5,6 +5,12 @@ public class TEstEclipse {
 		// TODO Auto-generated method stub
 		System.out.println();
 		System.out.println();
+		System.out.println();
+		System.out.println();
+		int x=2;
+		System.out.println();
+		int b=2;
+		
 
 	}
 
